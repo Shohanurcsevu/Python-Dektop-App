@@ -88,4 +88,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## License
-[MIT](https://shohanurcsevu.com/licenses/mit/)
+[MIT](https://github.com/Shohanurcsevu/Python-Dektop-App/blob/master/LICENCE)
