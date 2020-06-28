@@ -82,6 +82,13 @@ b6.grid(row=7, column=3)
 window.mainloop()
 ```
 
+## Output
+
+![python desktop app](https://user-images.githubusercontent.com/16940235/85951829-9208df80-b987-11ea-8b0e-e949b019bec5.PNG)
+
+
+
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
