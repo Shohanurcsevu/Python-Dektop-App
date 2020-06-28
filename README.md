@@ -6,6 +6,13 @@ tkinter is a Python library for dealing with GUI Dekstop Application.
 
 default package comes with python
 
+
+## Executable file building in Python
+
+pip install pyinstaller
+
+pyinstaller --onefile --window  script.py
+
 ## Usage
 
 ```python
